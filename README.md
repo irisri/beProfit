@@ -1,4 +1,4 @@
-# BeProgit
+# BeProfit
 
 > A home assignment for BeProgit
 
